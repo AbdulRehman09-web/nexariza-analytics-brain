@@ -1,0 +1,701 @@
+mention_id,date,source,text,true_sentiment
+MENTION-00124,2025-09-01,Reddit,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00452,2025-09-01,LinkedIn,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00241,2025-09-01,Reddit,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00093,2025-09-02,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00579,2025-09-03,Reddit,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00673,2025-09-04,G2 Review,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00008,2025-09-04,Reddit,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00051,2025-09-04,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00086,2025-09-05,Trustpilot,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00206,2025-09-07,Reddit,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00248,2025-09-08,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00064,2025-09-08,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00655,2025-09-08,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00664,2025-09-09,LinkedIn,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00458,2025-09-09,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00551,2025-09-09,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00163,2025-09-10,Trustpilot,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00378,2025-09-10,Trustpilot,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00320,2025-09-11,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00456,2025-09-11,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00232,2025-09-11,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00627,2025-09-12,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00108,2025-09-13,Trustpilot,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00171,2025-09-14,Reddit,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00515,2025-09-15,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00358,2025-09-15,Trustpilot,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00186,2025-09-15,G2 Review,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00165,2025-09-16,Twitter/X,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00557,2025-09-17,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00023,2025-09-17,Trustpilot,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00672,2025-09-18,Twitter/X,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00271,2025-09-19,Trustpilot,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00545,2025-09-20,Reddit,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00309,2025-09-20,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00586,2025-09-20,LinkedIn,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00229,2025-09-21,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00691,2025-09-22,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00426,2025-09-23,G2 Review,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00461,2025-09-23,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00116,2025-09-23,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00015,2025-09-24,Twitter/X,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00131,2025-09-24,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00642,2025-09-25,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00527,2025-09-26,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00576,2025-09-26,G2 Review,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00072,2025-09-26,LinkedIn,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00409,2025-09-27,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00651,2025-09-27,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00244,2025-09-27,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00204,2025-09-28,G2 Review,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00700,2025-09-28,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00614,2025-09-29,Reddit,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00397,2025-09-29,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00042,2025-09-30,Twitter/X,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00066,2025-10-01,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00404,2025-10-02,Twitter/X,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00059,2025-10-02,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00318,2025-10-02,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00330,2025-10-03,LinkedIn,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00449,2025-10-03,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00024,2025-10-04,Trustpilot,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00410,2025-10-04,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00346,2025-10-05,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00674,2025-10-05,G2 Review,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00254,2025-10-06,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00177,2025-10-06,Twitter/X,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00053,2025-10-07,Reddit,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00502,2025-10-08,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00132,2025-10-08,LinkedIn,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00082,2025-10-08,Trustpilot,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00267,2025-10-09,Trustpilot,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00609,2025-10-10,Twitter/X,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00696,2025-10-10,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00473,2025-10-11,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00684,2025-10-11,Reddit,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00440,2025-10-12,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00608,2025-10-12,Trustpilot,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00336,2025-10-12,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00689,2025-10-13,Trustpilot,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00211,2025-10-14,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00043,2025-10-14,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00437,2025-10-17,Reddit,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00417,2025-10-18,LinkedIn,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00687,2025-10-18,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00512,2025-10-18,LinkedIn,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00344,2025-10-19,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00310,2025-10-20,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00441,2025-10-21,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00661,2025-10-21,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00265,2025-10-22,Twitter/X,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00434,2025-10-23,Twitter/X,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00010,2025-10-23,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00174,2025-10-23,LinkedIn,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00383,2025-10-25,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00135,2025-10-25,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00525,2025-10-25,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00037,2025-10-25,LinkedIn,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00587,2025-10-25,Trustpilot,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00113,2025-10-26,Trustpilot,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00630,2025-10-28,Reddit,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00249,2025-10-29,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00299,2025-10-29,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00223,2025-10-29,G2 Review,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00088,2025-10-30,LinkedIn,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00541,2025-10-31,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00489,2025-10-31,Reddit,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00175,2025-11-01,Twitter/X,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00246,2025-11-02,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00337,2025-11-04,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00044,2025-11-04,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00511,2025-11-04,LinkedIn,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00321,2025-11-04,Twitter/X,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00482,2025-11-04,Trustpilot,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00329,2025-11-04,Twitter/X,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00504,2025-11-05,LinkedIn,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00626,2025-11-05,Twitter/X,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00524,2025-11-06,LinkedIn,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00414,2025-11-06,Trustpilot,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00348,2025-11-06,LinkedIn,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00083,2025-11-07,G2 Review,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00296,2025-11-07,LinkedIn,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00624,2025-11-08,Twitter/X,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00138,2025-11-08,LinkedIn,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00536,2025-11-08,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00621,2025-11-09,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00159,2025-11-09,Twitter/X,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00486,2025-11-10,Trustpilot,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00146,2025-11-10,G2 Review,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00547,2025-11-11,Trustpilot,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00497,2025-11-11,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00670,2025-11-11,G2 Review,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00061,2025-11-11,Reddit,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00026,2025-11-13,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00695,2025-11-13,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00266,2025-11-13,G2 Review,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00389,2025-11-14,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00442,2025-11-14,Reddit,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00571,2025-11-14,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00682,2025-11-16,LinkedIn,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00412,2025-11-16,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00644,2025-11-16,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00257,2025-11-16,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00210,2025-11-17,Trustpilot,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00559,2025-11-17,Reddit,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00395,2025-11-17,Reddit,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00390,2025-11-18,Twitter/X,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00030,2025-11-18,Reddit,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00605,2025-11-18,Trustpilot,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00089,2025-11-19,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00101,2025-11-19,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00218,2025-11-20,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00521,2025-11-20,Reddit,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00073,2025-11-20,Twitter/X,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00217,2025-11-20,Twitter/X,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00365,2025-11-20,Twitter/X,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00363,2025-11-20,Trustpilot,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00141,2025-11-21,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00094,2025-11-22,Reddit,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00021,2025-11-23,LinkedIn,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00548,2025-11-23,Trustpilot,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00591,2025-11-23,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00170,2025-11-23,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00225,2025-11-24,LinkedIn,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00045,2025-11-24,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00156,2025-11-24,LinkedIn,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00274,2025-11-25,Twitter/X,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00381,2025-11-27,Reddit,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00492,2025-11-28,Twitter/X,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00278,2025-11-29,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00584,2025-11-29,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00391,2025-11-30,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00102,2025-11-30,G2 Review,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00681,2025-12-01,LinkedIn,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00112,2025-12-01,Twitter/X,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00625,2025-12-01,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00505,2025-12-03,Reddit,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00596,2025-12-04,Trustpilot,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00074,2025-12-05,G2 Review,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00488,2025-12-05,LinkedIn,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00592,2025-12-05,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00471,2025-12-05,Trustpilot,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00056,2025-12-07,Reddit,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00253,2025-12-07,G2 Review,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00558,2025-12-07,Reddit,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00122,2025-12-08,G2 Review,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00199,2025-12-08,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00133,2025-12-09,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00387,2025-12-09,Trustpilot,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00429,2025-12-09,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00510,2025-12-10,Trustpilot,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00465,2025-12-12,Trustpilot,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00106,2025-12-12,Trustpilot,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00491,2025-12-12,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00649,2025-12-14,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00522,2025-12-14,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00372,2025-12-14,G2 Review,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00149,2025-12-15,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00632,2025-12-15,Twitter/X,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00216,2025-12-16,Twitter/X,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00099,2025-12-17,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00025,2025-12-18,Reddit,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00046,2025-12-18,G2 Review,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00490,2025-12-19,Reddit,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00054,2025-12-19,LinkedIn,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00419,2025-12-19,G2 Review,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00362,2025-12-20,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00005,2025-12-21,Twitter/X,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00154,2025-12-22,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00022,2025-12-22,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00193,2025-12-23,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00639,2025-12-23,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00385,2025-12-23,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00353,2025-12-24,LinkedIn,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00164,2025-12-24,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00355,2025-12-25,LinkedIn,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00420,2025-12-25,Twitter/X,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00130,2025-12-25,Twitter/X,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00300,2025-12-25,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00272,2025-12-26,Twitter/X,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00202,2025-12-26,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00052,2025-12-27,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00666,2025-12-27,Reddit,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00280,2025-12-28,Reddit,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00583,2025-12-28,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00428,2025-12-29,Reddit,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00635,2025-12-29,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00016,2025-12-29,Trustpilot,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00316,2025-12-30,Trustpilot,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00638,2025-12-31,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00447,2025-12-31,G2 Review,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00079,2026-01-01,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00247,2026-01-01,LinkedIn,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00451,2026-01-02,Reddit,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00191,2026-01-02,Reddit,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00459,2026-01-02,Twitter/X,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00190,2026-01-02,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00252,2026-01-03,Reddit,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00634,2026-01-04,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00002,2026-01-04,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00519,2026-01-04,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00049,2026-01-05,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00060,2026-01-06,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00137,2026-01-06,Reddit,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00597,2026-01-06,G2 Review,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00062,2026-01-06,Reddit,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00683,2026-01-08,Reddit,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00240,2026-01-08,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00467,2026-01-08,G2 Review,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00373,2026-01-09,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00281,2026-01-09,Trustpilot,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00445,2026-01-10,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00668,2026-01-10,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00142,2026-01-11,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00160,2026-01-12,Reddit,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00036,2026-01-13,LinkedIn,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00067,2026-01-14,Trustpilot,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00302,2026-01-14,Trustpilot,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00516,2026-01-14,Reddit,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00034,2026-01-15,Twitter/X,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00526,2026-01-15,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00104,2026-01-15,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00224,2026-01-15,Twitter/X,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00183,2026-01-16,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00145,2026-01-18,Twitter/X,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00469,2026-01-18,Reddit,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00366,2026-01-18,Reddit,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00288,2026-01-19,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00679,2026-01-19,Twitter/X,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00324,2026-01-20,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00109,2026-01-21,Trustpilot,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00184,2026-01-21,Reddit,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00188,2026-01-22,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00201,2026-01-23,Trustpilot,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00408,2026-01-23,LinkedIn,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00411,2026-01-24,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00369,2026-01-24,Reddit,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00435,2026-01-24,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00582,2026-01-25,LinkedIn,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00535,2026-01-25,Reddit,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00468,2026-01-25,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00399,2026-01-25,LinkedIn,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00351,2026-01-26,Twitter/X,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00539,2026-01-26,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00569,2026-01-26,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00245,2026-01-26,Reddit,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00226,2026-01-26,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00518,2026-01-27,Reddit,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00380,2026-01-27,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00035,2026-01-29,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00474,2026-01-29,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00421,2026-01-30,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00070,2026-01-30,LinkedIn,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00256,2026-01-31,Reddit,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00520,2026-01-31,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00686,2026-02-01,Twitter/X,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00495,2026-02-01,G2 Review,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00333,2026-02-02,Twitter/X,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00197,2026-02-04,G2 Review,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00107,2026-02-04,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00531,2026-02-05,Reddit,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00098,2026-02-05,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00293,2026-02-06,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00500,2026-02-06,Reddit,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00047,2026-02-07,Trustpilot,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00198,2026-02-09,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00694,2026-02-09,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00078,2026-02-09,Trustpilot,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00568,2026-02-10,Trustpilot,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00270,2026-02-10,LinkedIn,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00261,2026-02-10,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00523,2026-02-11,Reddit,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00662,2026-02-11,Trustpilot,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00637,2026-02-11,Trustpilot,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00658,2026-02-12,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00403,2026-02-12,G2 Review,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00508,2026-02-13,Trustpilot,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00394,2026-02-13,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00328,2026-02-13,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00275,2026-02-14,Trustpilot,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00562,2026-02-14,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00295,2026-02-15,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00161,2026-02-15,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00269,2026-02-16,Reddit,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00323,2026-02-16,Twitter/X,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00111,2026-02-17,Trustpilot,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00578,2026-02-17,G2 Review,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00698,2026-02-17,G2 Review,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00148,2026-02-17,Twitter/X,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00196,2026-02-17,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00258,2026-02-18,Reddit,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00103,2026-02-18,G2 Review,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00129,2026-02-19,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00359,2026-02-21,G2 Review,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00343,2026-02-21,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00009,2026-02-22,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00090,2026-02-23,Trustpilot,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00011,2026-02-24,Reddit,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00283,2026-02-24,Reddit,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00572,2026-02-25,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00176,2026-02-25,Trustpilot,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00438,2026-02-26,Twitter/X,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00413,2026-02-27,Reddit,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00350,2026-03-01,Twitter/X,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00057,2026-03-01,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00100,2026-03-01,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00327,2026-03-03,LinkedIn,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00498,2026-03-04,Reddit,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00660,2026-03-04,Reddit,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00041,2026-03-05,G2 Review,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00179,2026-03-05,G2 Review,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00014,2026-03-05,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00496,2026-03-05,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00483,2026-03-05,Twitter/X,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00418,2026-03-05,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00118,2026-03-06,Trustpilot,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00294,2026-03-06,Trustpilot,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00543,2026-03-07,LinkedIn,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00354,2026-03-08,LinkedIn,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00650,2026-03-09,G2 Review,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00084,2026-03-09,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00018,2026-03-09,Trustpilot,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00485,2026-03-10,LinkedIn,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00622,2026-03-11,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00276,2026-03-11,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00542,2026-03-11,LinkedIn,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00345,2026-03-11,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00563,2026-03-12,Reddit,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00623,2026-03-13,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00556,2026-03-14,G2 Review,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00375,2026-03-14,LinkedIn,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00570,2026-03-14,Trustpilot,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00304,2026-03-15,Twitter/X,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00286,2026-03-15,Trustpilot,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00105,2026-03-15,G2 Review,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00285,2026-03-16,G2 Review,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00115,2026-03-17,Trustpilot,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00262,2026-03-17,G2 Review,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00311,2026-03-18,LinkedIn,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00155,2026-03-19,Reddit,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00152,2026-03-19,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00617,2026-03-22,G2 Review,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00439,2026-03-22,Reddit,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00371,2026-03-22,Twitter/X,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00172,2026-03-23,Twitter/X,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00377,2026-03-23,Reddit,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00585,2026-03-23,Trustpilot,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00134,2026-03-24,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00470,2026-03-24,Trustpilot,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00121,2026-03-26,G2 Review,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00537,2026-03-26,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00075,2026-03-26,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00602,2026-03-27,Trustpilot,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00065,2026-03-28,Reddit,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00314,2026-03-28,Twitter/X,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00238,2026-03-30,Reddit,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00277,2026-03-30,G2 Review,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00663,2026-03-31,G2 Review,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00242,2026-03-31,Trustpilot,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00606,2026-04-01,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00313,2026-04-01,LinkedIn,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00453,2026-04-02,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00212,2026-04-02,G2 Review,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00665,2026-04-02,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00552,2026-04-02,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00007,2026-04-03,Trustpilot,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00448,2026-04-03,Reddit,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00077,2026-04-03,LinkedIn,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00312,2026-04-03,G2 Review,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00528,2026-04-03,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00162,2026-04-04,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00178,2026-04-04,Reddit,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00068,2026-04-05,LinkedIn,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00628,2026-04-06,G2 Review,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00476,2026-04-07,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00342,2026-04-09,Reddit,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00340,2026-04-09,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00347,2026-04-10,Trustpilot,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00478,2026-04-11,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00180,2026-04-11,Trustpilot,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00114,2026-04-12,Twitter/X,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00048,2026-04-13,Twitter/X,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00144,2026-04-14,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00207,2026-04-14,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00612,2026-04-15,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00126,2026-04-15,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00427,2026-04-16,Reddit,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00633,2026-04-17,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00598,2026-04-17,Trustpilot,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00477,2026-04-17,LinkedIn,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00444,2026-04-18,Twitter/X,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00192,2026-04-18,Trustpilot,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00503,2026-04-19,Trustpilot,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00402,2026-04-19,G2 Review,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00436,2026-04-19,Reddit,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00588,2026-04-21,LinkedIn,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00017,2026-04-21,G2 Review,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00319,2026-04-21,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00615,2026-04-22,Reddit,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00259,2026-04-22,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00081,2026-04-23,Twitter/X,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00080,2026-04-23,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00464,2026-04-23,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00669,2026-04-24,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00629,2026-04-24,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00430,2026-04-25,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00398,2026-04-25,Trustpilot,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00392,2026-04-26,Reddit,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00182,2026-04-27,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00032,2026-04-28,Twitter/X,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00590,2026-04-28,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00219,2026-04-29,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00236,2026-04-29,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00620,2026-04-30,G2 Review,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00645,2026-05-01,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00127,2026-05-01,G2 Review,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00692,2026-05-02,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00688,2026-05-02,G2 Review,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00208,2026-05-03,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00151,2026-05-03,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00573,2026-05-04,Trustpilot,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00654,2026-05-04,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00656,2026-05-04,LinkedIn,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00555,2026-05-04,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00334,2026-05-04,Twitter/X,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00298,2026-05-05,Trustpilot,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00187,2026-05-08,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00550,2026-05-09,Reddit,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00613,2026-05-09,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00209,2026-05-10,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00335,2026-05-10,Twitter/X,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00589,2026-05-11,LinkedIn,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00534,2026-05-12,Reddit,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00263,2026-05-12,LinkedIn,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00374,2026-05-13,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00530,2026-05-14,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00250,2026-05-14,LinkedIn,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00560,2026-05-15,Twitter/X,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00297,2026-05-15,Trustpilot,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00506,2026-05-16,Twitter/X,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00680,2026-05-16,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00636,2026-05-16,LinkedIn,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00140,2026-05-17,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00405,2026-05-17,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00091,2026-05-17,Twitter/X,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00675,2026-05-17,LinkedIn,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00532,2026-05-17,G2 Review,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00255,2026-05-18,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00120,2026-05-18,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00029,2026-05-19,Twitter/X,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00544,2026-05-19,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00386,2026-05-20,LinkedIn,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00368,2026-05-21,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00466,2026-05-22,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00595,2026-05-22,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00234,2026-05-24,G2 Review,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00546,2026-05-24,LinkedIn,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00509,2026-05-24,Trustpilot,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00472,2026-05-24,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00507,2026-05-24,G2 Review,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00143,2026-05-25,Trustpilot,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00213,2026-05-26,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00407,2026-05-26,Trustpilot,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00384,2026-05-27,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00454,2026-05-27,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00643,2026-05-27,Reddit,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00370,2026-05-28,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00501,2026-05-28,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00431,2026-05-29,G2 Review,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00648,2026-05-30,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00339,2026-05-30,LinkedIn,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00195,2026-05-30,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00564,2026-05-31,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00157,2026-06-01,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00659,2026-06-01,Trustpilot,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00450,2026-06-02,LinkedIn,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00611,2026-06-02,LinkedIn,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00012,2026-06-02,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00117,2026-06-03,G2 Review,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00027,2026-06-03,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00228,2026-06-04,LinkedIn,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00039,2026-06-04,Twitter/X,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00325,2026-06-04,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00422,2026-06-04,Twitter/X,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00071,2026-06-05,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00671,2026-06-05,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00317,2026-06-06,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00455,2026-06-06,LinkedIn,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00693,2026-06-06,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00153,2026-06-07,Reddit,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00096,2026-06-07,LinkedIn,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00610,2026-06-08,LinkedIn,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00338,2026-06-08,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00239,2026-06-09,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00063,2026-06-09,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00667,2026-06-09,Trustpilot,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00540,2026-06-09,LinkedIn,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00013,2026-06-10,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00678,2026-06-10,LinkedIn,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00097,2026-06-10,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00499,2026-06-10,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00322,2026-06-11,G2 Review,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00401,2026-06-11,Twitter/X,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00189,2026-06-12,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00640,2026-06-13,G2 Review,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00566,2026-06-13,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00301,2026-06-13,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00376,2026-06-14,Twitter/X,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00139,2026-06-14,LinkedIn,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00415,2026-06-14,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00574,2026-06-15,Twitter/X,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00647,2026-06-15,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00349,2026-06-15,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00306,2026-06-15,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00095,2026-06-15,G2 Review,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00006,2026-06-15,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00158,2026-06-16,Reddit,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00360,2026-06-17,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00685,2026-06-17,G2 Review,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00690,2026-06-17,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00593,2026-06-18,G2 Review,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00697,2026-06-18,LinkedIn,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00364,2026-06-18,G2 Review,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00185,2026-06-19,Trustpilot,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00538,2026-06-19,LinkedIn,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00260,2026-06-20,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00379,2026-06-22,Reddit,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00529,2026-06-23,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00055,2026-06-23,Reddit,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00554,2026-06-23,LinkedIn,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00233,2026-06-23,Reddit,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00352,2026-06-23,Reddit,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00125,2026-06-24,Reddit,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00618,2026-06-24,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00076,2026-06-24,Twitter/X,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00460,2026-06-25,G2 Review,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00513,2026-06-25,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00599,2026-06-26,Trustpilot,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00533,2026-06-26,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00028,2026-06-26,G2 Review,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00235,2026-06-27,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00653,2026-06-28,G2 Review,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00200,2026-06-29,LinkedIn,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00050,2026-06-29,G2 Review,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00214,2026-06-29,LinkedIn,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00004,2026-06-30,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00264,2026-06-30,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00331,2026-07-01,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00549,2026-07-01,LinkedIn,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00173,2026-07-01,G2 Review,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00400,2026-07-02,LinkedIn,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00031,2026-07-03,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00424,2026-07-03,G2 Review,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00553,2026-07-03,LinkedIn,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00040,2026-07-04,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00652,2026-07-06,G2 Review,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00514,2026-07-07,Twitter/X,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00484,2026-07-07,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00432,2026-07-07,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00230,2026-07-07,G2 Review,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00290,2026-07-08,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00289,2026-07-08,G2 Review,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00169,2026-07-08,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00367,2026-07-08,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00020,2026-07-09,G2 Review,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00357,2026-07-09,Trustpilot,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00481,2026-07-09,Twitter/X,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00038,2026-07-09,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00446,2026-07-09,Trustpilot,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00594,2026-07-10,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00565,2026-07-10,Trustpilot,We're evaluating a few vendors including Nexariza AI for our next project.,Neutral
+MENTION-00631,2026-07-12,G2 Review,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00604,2026-07-12,Reddit,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00332,2026-07-12,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00356,2026-07-12,Twitter/X,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00123,2026-07-13,LinkedIn,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00181,2026-07-13,Reddit,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00575,2026-07-13,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00517,2026-07-14,LinkedIn,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00215,2026-07-15,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00291,2026-07-15,G2 Review,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00166,2026-07-16,Reddit,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00243,2026-07-16,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00119,2026-07-17,Trustpilot,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00268,2026-07-17,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00641,2026-07-18,Reddit,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00292,2026-07-19,Twitter/X,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00396,2026-07-21,LinkedIn,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00463,2026-07-21,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00361,2026-07-22,LinkedIn,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00273,2026-07-22,Reddit,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00092,2026-07-22,Twitter/X,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00457,2026-07-23,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00676,2026-07-24,Reddit,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00577,2026-07-24,Reddit,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00205,2026-07-24,Twitter/X,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00001,2026-07-25,Trustpilot,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00110,2026-07-26,LinkedIn,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00433,2026-07-26,LinkedIn,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00388,2026-07-28,Twitter/X,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00307,2026-07-29,Trustpilot,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00308,2026-07-30,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00487,2026-07-30,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00581,2026-07-31,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00580,2026-08-01,Reddit,"Not what we expected, the model accuracy seems worse than advertised.",Negative
+MENTION-00600,2026-08-01,Twitter/X,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00341,2026-08-02,G2 Review,Attended a webinar hosted by Nexariza AI on churn prediction.,Neutral
+MENTION-00677,2026-08-04,LinkedIn,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00128,2026-08-04,LinkedIn,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00326,2026-08-05,Twitter/X,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00069,2026-08-05,G2 Review,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00222,2026-08-05,Reddit,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00475,2026-08-05,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00423,2026-08-05,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00194,2026-08-06,LinkedIn,Nexariza AI's pricing page has three tiers depending on usage.,Neutral
+MENTION-00087,2026-08-06,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00607,2026-08-07,LinkedIn,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00601,2026-08-08,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00167,2026-08-09,Reddit,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00416,2026-08-10,LinkedIn,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00479,2026-08-10,LinkedIn,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00237,2026-08-10,Trustpilot,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00303,2026-08-11,LinkedIn,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00616,2026-08-11,Twitter/X,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00058,2026-08-11,Twitter/X,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00231,2026-08-12,LinkedIn,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00305,2026-08-12,LinkedIn,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00282,2026-08-13,Reddit,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00003,2026-08-13,Twitter/X,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00480,2026-08-14,G2 Review,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00393,2026-08-15,LinkedIn,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00033,2026-08-15,LinkedIn,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00493,2026-08-16,Trustpilot,We had ongoing issues with the integration and it took weeks to get resolved.,Negative
+MENTION-00279,2026-08-16,G2 Review,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00462,2026-08-17,Reddit,Still deciding between Nexariza AI and a couple of competitors.,Neutral
+MENTION-00221,2026-08-18,LinkedIn,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00699,2026-08-19,Trustpilot,Support has been unresponsive for days on a critical issue.,Negative
+MENTION-00603,2026-08-20,Trustpilot,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00315,2026-08-20,Reddit,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00382,2026-08-20,Reddit,"Disappointed with the recent update, several features broke and support was slow to respond.",Negative
+MENTION-00284,2026-08-20,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00425,2026-08-21,Reddit,The pricing changed without much notice and it's hard to justify the cost now.,Negative
+MENTION-00136,2026-08-23,LinkedIn,Nexariza AI released a new feature update this week.,Neutral
+MENTION-00150,2026-08-23,Reddit,Onboarding was smooth and the results showed up faster than we expected.,Positive
+MENTION-00443,2026-08-23,Reddit,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00619,2026-08-25,Twitter/X,Nexariza AI has completely transformed how we handle client retention — the churn predictions are spot on.,Positive
+MENTION-00168,2026-08-25,G2 Review,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00227,2026-08-25,LinkedIn,The dashboard is intuitive and the insights have already saved us time and money.,Positive
+MENTION-00287,2026-08-25,Reddit,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00019,2026-08-26,Twitter/X,Cancelled our subscription after repeated bugs in the reporting dashboard.,Negative
+MENTION-00657,2026-08-27,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00085,2026-08-27,LinkedIn,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00567,2026-08-27,Reddit,"Great product, great team, and the ROI has been obvious within the first quarter.",Positive
+MENTION-00251,2026-08-28,Reddit,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00561,2026-08-28,LinkedIn,"Really impressed with the support team, they resolved our issue within hours.",Positive
+MENTION-00220,2026-08-28,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00147,2026-08-28,Reddit,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00203,2026-08-29,Twitter/X,Had a call with the Nexariza team to discuss our requirements.,Neutral
+MENTION-00406,2026-08-29,LinkedIn,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00646,2026-08-29,Twitter/X,"Best AI vendor we've worked with this year, highly recommend to anyone in the industry.",Positive
+MENTION-00494,2026-08-30,Trustpilot,Onboarding was smooth and the results showed up faster than we expected.,Positive
